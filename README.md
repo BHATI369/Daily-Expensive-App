@@ -2,7 +2,8 @@
 
 Flutter project.
 
-This App used for record daily spend money and show the chart of one week. 
+This app is record  the daily spend money and show the chart how much money you spend in a week
+and it very useful for maintain your expensives
 
 ## ScreenShots
 
