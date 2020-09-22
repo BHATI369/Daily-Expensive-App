@@ -1,6 +1,7 @@
 # daily_expensive
 
 A new Flutter project.
+This App used for record daily spend money and show the chart of one week. 
 
 ## Getting Started
 
