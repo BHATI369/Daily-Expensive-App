@@ -5,10 +5,12 @@ Flutter project.
 This app is record  the daily spend money and show the chart how much money you spend in a week
 and it very useful for maintain your expensives
 
-## ScreenShots
+
+##GIF
 
 ![Record_2020-09-22-12-06-41_bd7c248b0fb3063a675afa7e4bc98f4d](https://user-images.githubusercontent.com/52590889/93853757-155d7700-fcd2-11ea-9768-5566d4357bee.gif)
 
+## ScreenShots
 
 <img src="https://user-images.githubusercontent.com/52590889/93851358-9403e580-fccd-11ea-822b-ca9d3e071f8c.png" width="300" height="500"/>
 
